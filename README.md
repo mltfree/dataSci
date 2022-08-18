@@ -1,6 +1,6 @@
-## Competitions
+# Competitions
 
-### Amex prediction https://www.kaggle.com/competitions/amex-default-prediction/overview
+## Amex prediction https://www.kaggle.com/competitions/amex-default-prediction/overview
 
 ### WB1 Baseline solution Notebook - https://www.kaggle.com/code/pirudayaraj/amex-mlt-free-soln1-score-0-585
 
