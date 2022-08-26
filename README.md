@@ -8,8 +8,9 @@
 
 2) Approach - loaded data, converted to numerics, train-test split, xgb
 
-### WB2 Enhanced Soln - WILL BE ADDING SOON
+### WB2 Enhanced Soln - https://www.kaggle.com/code/pirudayaraj/amex-mlt-free-soln2-0-588
 
 1) Reducing dimension via permutaion importance and highly correlated variables
 
+2) Training with XGB and LGBM
  
