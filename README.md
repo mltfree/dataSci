@@ -1,5 +1,5 @@
 # Competitions
-
+___
 ### Amex prediction 
 > https://www.kaggle.com/competitions/amex-default-prediction/overview
 
@@ -13,6 +13,7 @@
 > 1) Reducing dimension via permutaion importance and highly correlated variables
 > 2) Training with XGB and LGBM
 
+___
 ### Mayo clinic
 > https://www.kaggle.com/competitions/mayo-clinic-strip-ai
 
